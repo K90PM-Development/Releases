@@ -37,7 +37,8 @@
 
   <project path="hardware/qcom-caf/common"
            name="OnePlus-SM8850-Development/android_hardware_qcom-caf_common"
-           groups="qcom">
+           groups="qcom"
+           revision="lineage-23.2">
     <linkfile src="os_pickup_qssi.bp" dest="hardware/qcom-caf/sm8850/Android.bp" />
   </project>
 
