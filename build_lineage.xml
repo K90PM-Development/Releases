@@ -29,6 +29,7 @@
   <remove-project name="LineageOS/android_hardware_qcom-caf_common" />
   <remove-project name="LineageOS/android_hardware_qcom_thermal" />
   <remove-project name="LineageOS/android_vendor_qcom_opensource_usb" />
+  <remove-project name="LineageOS/android_vendor_qcom_opensource_vibrator" />
   
   <project path="device/qcom/sepolicy_vndr/sm8850"
            name="K90PM-Development/android_device_qcom_sepolicy_vndr"
@@ -56,4 +57,9 @@
            name="OnePlus-SM8850-Development/android_vendor_qcom_opensource_usb"
            groups="qcom,kaanapali-vendor"
            revision="lineage-23.2" />
+
+  <project path="vendor/qcom/opensource/vibrator"
+           name="K90PM-Development/android_vendor_qcom_opensource_vibrator"
+           groups="qcom,kaanapali-vendor"
+           revision="lineage-24.0" />
 </manifest>
