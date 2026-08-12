@@ -59,7 +59,7 @@
            revision="lineage-23.2" />
 
   <project path="vendor/qcom/opensource/vibrator"
-           name="K90PM-Development/android_vendor_qcom_opensource_vibrator"
+           name="LineageOS/android_vendor_qcom_opensource_vibrator"
            groups="qcom,kaanapali-vendor"
            revision="lineage-24.0" />
 </manifest>
