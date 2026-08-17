@@ -53,7 +53,7 @@
            revision="lineage-23.2" />
 
   <project path="vendor/qcom/opensource/usb"
-           name="OnePlus-SM8850-Development/android_vendor_qcom_opensource_usb"
+           name="LineageOS/android_vendor_qcom_opensource_usb"
            groups="qcom,kaanapali-vendor"
-           revision="lineage-23.2" />
+           revision="lineage-24.0" />
 </manifest>
