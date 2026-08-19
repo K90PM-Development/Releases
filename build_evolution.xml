@@ -11,7 +11,7 @@
 
   <project path="device/xiaomi/sm8850-common"
            name="K90PM-Development/android_device_xiaomi_sm8850-common"
-           revision="lineage-24.0" />
+           revision="evolution-cnb" />
 
   <project path="kernel/xiaomi/myron-prebuilt"
            name="K90PM-Development/android_kernel_xiaomi_myron-prebuilt"
