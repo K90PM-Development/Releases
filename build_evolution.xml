@@ -25,6 +25,10 @@
            name="K90PM-Development/proprietary_vendor_xiaomi_myron-miuicamera"
            revision="lineage-24.0" />
 
+  <project path="vendor/lunaris/dolby" 
+           name="K90PM-Development/vendor_lunaris_dolby" 
+           revision="main" />
+  
   <!-- platform -->
   <remove-project name="LineageOS/android_hardware_qcom-caf_common" />
   <remove-project name="LineageOS/android_hardware_qcom_thermal" />
