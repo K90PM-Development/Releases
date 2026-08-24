@@ -16,18 +16,10 @@
   <project path="kernel/xiaomi/myron-prebuilt"
            name="K90PM-Development/android_kernel_xiaomi_myron-prebuilt"
            revision="main" />
-  
-  <project path="hardware/xiaomi"
-           name="K90PM-Development/android_hardware_xiaomi"
-           revision="lineage-23.2" />
 
   <project path="vendor/xiaomi/myron-miuicamera"
            name="K90PM-Development/proprietary_vendor_xiaomi_myron-miuicamera"
            revision="lineage-24.0" />
-
-  <project path="vendor/lunaris/dolby" 
-           name="K90PM-Development/vendor_lunaris_dolby" 
-           revision="main" />
   
   <!-- platform -->
   <remove-project name="LineageOS/android_hardware_qcom-caf_common" />
