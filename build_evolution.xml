@@ -13,6 +13,10 @@
            name="K90PM-Development/android_device_xiaomi_sm8850-common"
            revision="evolution-cnb" />
 
+  <project path="hardware/xiaomi"
+           name="Evolution-X-Devices/hardware_xiaomi"
+           revision="cnb" />
+  
   <project path="kernel/xiaomi/myron-prebuilt"
            name="K90PM-Development/android_kernel_xiaomi_myron-prebuilt"
            revision="main" />
