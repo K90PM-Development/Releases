@@ -14,7 +14,7 @@
            revision="evolution-cnb" />
 
   <project path="hardware/xiaomi"
-           name="K90PM-Development/hardware_xiaomi"
+           name="Evolution-X-Devices/hardware_xiaomi"
            revision="cnb" />
   
   <project path="kernel/xiaomi/myron-prebuilt"
