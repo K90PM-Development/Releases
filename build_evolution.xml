@@ -29,6 +29,7 @@
   <remove-project name="LineageOS/android_hardware_qcom-caf_common" />
   <remove-project name="LineageOS/android_hardware_qcom_thermal" />
   <remove-project name="LineageOS/android_vendor_qcom_opensource_usb" />
+  <remove-project name="Evolution-X/packages_modules_Bluetooth" />
 
   <project path="packages/modules/Bluetooth"
            name="K90PM-Development/packages_modules_Bluetooth"
