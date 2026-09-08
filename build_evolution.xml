@@ -29,7 +29,6 @@
   <remove-project name="LineageOS/android_hardware_qcom-caf_common" />
   <remove-project name="LineageOS/android_hardware_qcom_thermal" />
   <remove-project name="LineageOS/android_vendor_qcom_opensource_usb" />
-  <remove-project name="packages_modules_Bluetooth" />
 
   <project path="device/qcom/sepolicy_vndr/sm8850"
            name="K90PM-Development/android_device_qcom_sepolicy_vndr"
@@ -52,10 +51,6 @@
            name="OnePlus-SM8850-Development/android_hardware_qcom_thermal"
            groups="qcom,kaanapali-vendor"
            revision="lineage-23.2" />
-
-  <project path="packages/modules/Bluetooth"
-           name="K90PM-Development/packages_modules_Bluetooth"
-           revision="cnb" />
   
   <project path="vendor/qcom/opensource/usb"
            name="LineageOS/android_vendor_qcom_opensource_usb"
