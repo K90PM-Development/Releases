@@ -24,36 +24,4 @@
   <project path="vendor/xiaomi/myron-miuicamera"
            name="K90PM-Development/proprietary_vendor_xiaomi_myron-miuicamera"
            revision="lineage-24.0" />
-  
-  <!-- platform -->
-  <remove-project name="LineageOS/android_hardware_qcom-caf_common" />
-  <remove-project name="LineageOS/android_hardware_qcom_thermal" />
-  <remove-project name="LineageOS/android_vendor_qcom_opensource_usb" />
-
-  <project path="device/qcom/sepolicy_vndr/sm8850"
-           name="K90PM-Development/android_device_qcom_sepolicy_vndr"
-           groups="qcom,kaanapali-vendor"
-           revision="lineage-24.0-caf-sm8850" />
-
-  <project path="hardware/qcom-caf/common"
-           name="OnePlus-SM8850-Development/android_hardware_qcom-caf_common"
-           groups="qcom"
-           revision="lineage-23.2">
-    <linkfile src="os_pickup_qssi.bp" dest="hardware/qcom-caf/sm8850/Android.bp" />
-  </project>
-
-  <project path="hardware/qcom-caf/sm8850/audio/primary-hal"
-           name="OnePlus-SM8850-Development/android_hardware_qcom_audio-ar"
-           groups="qcom,kaanapali-audio"
-           revision="lineage-23.2-caf-sm8850" />
-  
-  <project path="hardware/qcom-caf/thermal"
-           name="OnePlus-SM8850-Development/android_hardware_qcom_thermal"
-           groups="qcom,kaanapali-vendor"
-           revision="lineage-23.2" />
-  
-  <project path="vendor/qcom/opensource/usb"
-           name="LineageOS/android_vendor_qcom_opensource_usb"
-           groups="qcom,kaanapali-vendor"
-           revision="lineage-24.0" />
 </manifest>
