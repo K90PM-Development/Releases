@@ -21,6 +21,10 @@
            name="K90PM-Development/android_kernel_xiaomi_myron-prebuilt"
            revision="main" />
 
+  <project path="packages/apps/ViPER4AndroidFX"
+           name="Evolution-X-Devices/packages_apps_ViPER4AndroidFX"
+           revision="cnb" />
+  
   <project path="vendor/xiaomi/myron-miuicamera"
            name="K90PM-Development/proprietary_vendor_xiaomi_myron-miuicamera"
            revision="lineage-24.0" />
