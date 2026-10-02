@@ -2,30 +2,30 @@
 <manifest>
   <!-- device -->
   <project path="device/xiaomi/myron"
-           name="K90PM-Development/android_device_xiaomi_myron"
-           revision="evolution-cnb" />
+           name="Evolution-X-Devices/device_xiaomi_myron"
+           revision="cnb" />
 
   <project path="device/xiaomi/myron-miuicamera"
-           name="K90PM-Development/android_device_xiaomi_myron-miuicamera"
-           revision="main" />
+           name="Evolution-X-Devices/device_xiaomi_myron-miuicamera"
+           revision="cnb" />
 
   <project path="device/xiaomi/sm8850-common"
-           name="K90PM-Development/android_device_xiaomi_sm8850-common"
-           revision="evolution-cnb" />
+           name="Evolution-X-Devices/device_xiaomi_sm8850-common"
+           revision="cnb" />
 
   <project path="hardware/xiaomi"
            name="Evolution-X-Devices/hardware_xiaomi"
-           revision="cnb" />
+           revision="cnb-no-dolby" />
   
   <project path="kernel/xiaomi/myron-prebuilt"
-           name="K90PM-Development/android_kernel_xiaomi_myron-prebuilt"
-           revision="main" />
+           name="Evolution-X-Devices/kernel_xiaomi_myron-prebuilt"
+           revision="cnb" />
 
   <project path="packages/apps/ViPER4AndroidFX"
            name="Evolution-X-Devices/packages_apps_ViPER4AndroidFX"
            revision="cnb" />
   
   <project path="vendor/xiaomi/myron-miuicamera"
-           name="K90PM-Development/proprietary_vendor_xiaomi_myron-miuicamera"
-           revision="lineage-24.0" />
+           name="Evolution-X-Devices/vendor_xiaomi_myron-miuicamera"
+           revision="cnb" />
 </manifest>
