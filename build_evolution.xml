@@ -15,7 +15,7 @@
 
   <project path="hardware/xiaomi"
            name="Evolution-X-Devices/hardware_xiaomi"
-           revision="cnb-no-dolby" />
+           revision="cnb" />
   
   <project path="kernel/xiaomi/myron-prebuilt"
            name="Evolution-X-Devices/kernel_xiaomi_myron-prebuilt"
