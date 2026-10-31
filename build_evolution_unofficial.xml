@@ -17,15 +17,15 @@
            name="Evolution-X-Devices/hardware_xiaomi"
            revision="cnb" />
   
-  <project path="kernel/platform/kernel-6.12/vendor/xiaomi/kernel/sm8850"
+  <project path="kernel/platform/kernel-6.12/vendor/xiaomi/kernel/"
            name="K90PM-Development/android_kernel_xiaomi_sm8850"
            revision="lineage-24.0" />
 
-  <project path="kernel/platform/kernel-6.12/vendor/xiaomi/kernel/sm8850-devicetrees"
+  <project path="kernel/platform/kernel-6.12/vendor/xiaomi/sm8850-devicetrees"
            name="K90PM-Development/android_kernel_xiaomi_sm8850-devicetrees"
            revision="lineage-24.0" />
 
-  <project path="kernel/platform/kernel-6.12/vendor/xiaomi/kernel/sm8850-modules"
+  <project path="kernel/platform/kernel-6.12/vendor/xiaomi/sm8850-modules"
            name="K90PM-Development/android_kernel_xiaomi_sm8850-modules"
            revision="lineage-24.0" />
   
