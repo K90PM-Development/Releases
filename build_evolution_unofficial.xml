@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <!-- device -->
+  <project path="device/xiaomi/myron"
+           name="K90PM-Development/android_device_xiaomi_myron"
+           revision="evolution-cnb" />
+
+  <project path="device/xiaomi/myron-miuicamera"
+           name="K90PM-Development/android_device_xiaomi_myron-miuicamera"
+           revision="main" />
+
+  <project path="device/xiaomi/sm8850-common"
+           name="K90PM-Development/android_device_xiaomi_sm8850-common"
+           revision="evolution-cnb" />
+
+  <project path="hardware/xiaomi"
+           name="Evolution-X-Devices/hardware_xiaomi"
+           revision="cnb" />
+  
+  <project path="kernel/xiaomi/sm8850"
+           name="K90PM-Development/android_kernel_xiaomi_sm8850"
+           revision="lineage-24.0" />
+
+  <project path="kernel/xiaomi/sm8850-devicetrees"
+           name="K90PM-Development/android_kernel_xiaomi_sm8850-devicetrees"
+           revision="lineage-24.0" />
+
+  <project path="kernel/xiaomi/sm8850-modules"
+           name="K90PM-Development/android_kernel_xiaomi_sm8850-modules"
+           revision="lineage-24.0" />
+  
+  <project path="packages/apps/ViPER4AndroidFX"
+           name="Evolution-X-Devices/packages_apps_ViPER4AndroidFX"
+           revision="cnb" />
+  
+  <project path="vendor/xiaomi/myron-miuicamera"
+           name="Evolution-X-Devices/vendor_xiaomi_myron-miuicamera"
+           revision="cnb" />
+</manifest>
