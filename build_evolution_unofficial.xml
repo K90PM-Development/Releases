@@ -5,15 +5,15 @@
   <!-- device -->
   <project path="device/xiaomi/myron"
            name="K90PM-Development/android_device_xiaomi_myron"
-           revision="evolution-cnb" />
+           revision="cnb" />
 
   <project path="device/xiaomi/myron-miuicamera"
-           name="K90PM-Development/android_device_xiaomi_myron-miuicamera"
-           revision="main" />
+           name="lolipuru/device_xiaomi_myron-miuicamera"
+           revision="lineage-24.0-os4" />
 
   <project path="device/xiaomi/sm8850-common"
            name="K90PM-Development/android_device_xiaomi_sm8850-common"
-           revision="evolution-cnb" />
+           revision="cnb" />
 
   <project path="hardware/xiaomi"
            name="Evolution-X-Devices/hardware_xiaomi"
@@ -33,9 +33,5 @@
 
   <project path="packages/apps/ViPER4AndroidFX"
            name="Evolution-X-Devices/packages_apps_ViPER4AndroidFX"
-           revision="cnb" />
-
-  <project path="vendor/xiaomi/myron-miuicamera"
-           name="Evolution-X-Devices/vendor_xiaomi_myron-miuicamera"
            revision="cnb" />
 </manifest>
